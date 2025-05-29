@@ -36,6 +36,20 @@
 
 > ⭐ Django, DRF, Ruff
 
+<br>
+
+``` toml
+line-length = 88
+
+[format]
+quote-style = "single"
+
+[per-file-ignores]
+"__init__.py" = ["F401"]
+
+```
+> ⭐ `ruff.toml` | `Pyproject.toml`
+
 ## Extention list
 
 - Jetbrains Keymap
