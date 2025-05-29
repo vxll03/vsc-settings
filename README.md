@@ -34,7 +34,7 @@
 }
 ```
 
-> ⭐ Django, DRF, Ruff
+> ⭐ `settings.json`
 
 <br>
 
