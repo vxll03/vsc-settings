@@ -1,4 +1,4 @@
-## Settings.json
+# Python settings
 
 ```json
 {
@@ -30,7 +30,10 @@
       "depth": 2,
       "includeAllSymbols": true
     }
-  ]
+  ],
+  "files.exclude": {
+        "**/__pycache__/": true
+  }
 }
 ```
 
